@@ -1,0 +1,19 @@
+{
+  "name": "DUET",
+  "short_name": "DUET",
+  "description": "A private two-player table for darts, spades, hold'em, 8-ball, and battleship.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101614",
+  "theme_color": "#101614",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
