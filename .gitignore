@@ -8,3 +8,5 @@ artifacts
 !.grok/app-env.json
 *.log
 .DS_Store
+.project_id
+.node_modules.lock
